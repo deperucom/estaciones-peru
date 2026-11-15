@@ -2,11 +2,12 @@
 
 Repositorio informativo sobre el servicio de estaciones climáticas del Perú publicado por [DePeru.com](https://www.deperu.com) y su endpoint JSON. Reúne la URL del servicio, el formato de respuesta observado, las restricciones de acceso y ejemplos sencillos para consultar la información desde distintas plataformas.
 
-> **Este repositorio no es la API ni está afiliado oficialmente a DePeru.com.** Los datos y el servicio son proporcionados por DePeru.com. Consulta el sitio original para verificar la información más reciente.
+> **Este repositorio no es oficialmente del Peru.** Los datos y el servicio son proporcionados por DePeru.com. Consulta el sitio original para verificar la información más reciente.
 
 ## Enlaces
 
 - **Portal del clima:** https://www.deperu.com/clima/
+- **Página de la API:** https://www.deperu.com/api/
 - **Endpoint JSON:** https://deperu.com/api/rest/estaciones.json
 - **Contacto DePeru.com:** https://deperu.com/contacto
 
